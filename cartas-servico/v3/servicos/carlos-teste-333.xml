@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Carlos Teste 333</nome>
+    <nome><![CDATA[Carlos Teste 333]]></nome>
     <sigla>CT1</sigla>
     <nomes-populares>
         <item>TesteCT</item>
     </nomes-populares>
-    <descricao><![CDATA[teste 3 teste 4 teste 5 teste 6]]></descricao>
+    <descricao><![CDATA[teste 3 teste 4 teste 5]]></descricao>
     <contato/>
     <gratuito>false</gratuito>
     <solicitantes>
