@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Passe Livre - Beneficiário]]></nome>
+    <sigla/>
+    <nomes-populares>
+        <item>Passe Livre</item>
+        <item>Passe Pessoa Carente</item>
+        <item>Carteirinha Do Passe Livre</item>
+    </nomes-populares>
+    <descricao><![CDATA[O Passe Livre é um programa do Governo Federal que proporciona a pessoas que possuem deficiência e são carentes gratuidade nas passagens para viajar entre os estados brasileiros.]]></descricao>
+    <formularioEletronico>
+        <formTemplate><![CDATA[WwoJewoJCSJ0eXBlIjogInBhcmFncmFwaCIsCgkJInN1YnR5cGUiOiAicCIsCgkJImxhYmVsIjogIlJFUVVFUklNRU5UTyBERSBQQVNTRSBMSVZSRSBQQVJBIE8gVFJBTlNQT1JURSBJTlRFUkVTVEFEVUFMIERFIFBFU1NPQSBDQVJFTlRFIENPTSBERUZJQ0nKTkNJQSBMZWkgOC44OTksIGRlIDI5LzA2LzE5OTQuICBEZWNyZXRvIDMuNjkxLCBkZSAxOS8xMi8yMDAwLlxuXG4gIiwKCQkiY2xhc3NOYW1lIjogInBhcmFncmFwaCIKCX0sCgl7CgkJInR5cGUiOiAidGV4dCIsCgkJImxhYmVsIjogIk5vbWUgZG8gQmVuZWZpY2nhcmlvIiwKCQkic3VidHlwZSI6ICJ0ZXh0IiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAidGV4dC0xNDc4ODc4NzQ1MjUwIgoJfSwKCXsKCQkidHlwZSI6ICJzZWxlY3QiLAoJCSJsYWJlbCI6ICJTZXhvIiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAic2VsZWN0LTE0Nzg4Nzg4MjcwNjIiLAoJCSJ2YWx1ZXMiOiBbCgkJCXsKCQkJCSJsYWJlbCI6ICJNYXNjdWxpbm8iLAoJCQkJInZhbHVlIjogIm1hc2N1bGlubyIsCgkJCQkic2VsZWN0ZWQiOiB0cnVlCgkJCX0sCgkJCXsKCQkJCSJsYWJlbCI6ICJGZW1pbmlubyIsCgkJCQkidmFsdWUiOiAiZmVtaW5pbm8iLAoJCQkJInNlbGVjdGVkIjogZmFsc2UKCQkJfQoJCV0KCX0sCgl7CgkJInR5cGUiOiAidGV4dCIsCgkJImxhYmVsIjogIkNhcnRlaXJhIGRlIEluZGVudGlkYWRlIiwKCQkic3VidHlwZSI6ICJ0ZXh0IiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAidGV4dC0xNDc4ODc4OTQ3NzA4IgoJfSwKCXsKCQkidHlwZSI6ICJ0ZXh0IiwKCQkibGFiZWwiOiAiQ1BGIiwKCQkic3VidHlwZSI6ICJ0ZXh0IiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAidGV4dC0xNDc4ODc5MDI2MDgyIiwKCQkibWFzY2FyYSI6ICJtYXNrLWNwZiIKCX0sCgl7CgkJInR5cGUiOiAidGV4dCIsCgkJImxhYmVsIjogIlByb2Zpc3PjbyIsCgkJInN1YnR5cGUiOiAidGV4dCIsCgkJImNsYXNzTmFtZSI6ICJmb3JtLWNvbnRyb2wiLAoJCSJuYW1lIjogInRleHQtMTQ3ODg4MDc5NDIxNyIKCX0sCgl7CgkJInR5cGUiOiAiZGF0ZSIsCgkJImxhYmVsIjogIkRhdGEgZGUgTmFzY2ltZW50byIsCgkJImNsYXNzTmFtZSI6ICJjYWxlbmRhciIsCgkJIm5hbWUiOiAiZGF0ZS0xNDc4ODc5MTEyNTI2IgoJfSwKCXsKCQkidHlwZSI6ICJ0ZXh0IiwKCQkibGFiZWwiOiAiRW5kZXJl528iLAoJCSJzdWJ0eXBlIjogInRleHQiLAoJCSJjbGFzc05hbWUiOiAiZm9ybS1jb250cm9sIiwKCQkibmFtZSI6ICJ0ZXh0LTE0Nzg4NzkxNjc1NzgiCgl9LAoJewoJCSJ0eXBlIjogInRleHQiLAoJCSJsYWJlbCI6ICJDRVAiLAoJCSJzdWJ0eXBlIjogInRleHQiLAoJCSJjbGFzc05hbWUiOiAiZm9ybS1jb250cm9sIiwKCQkibmFtZSI6ICJ0ZXh0LTE0Nzg4NzkxODE5NTAiLAoJCSJtYXNjYXJhIjogIm1hc2stY2VwIgoJfSwKCXsKCQkidHlwZSI6ICJ0ZXh0IiwKCQkibGFiZWwiOiAiVGVsZWZvbmUiLAoJCSJzdWJ0eXBlIjogInRleHQiLAoJCSJjbGFzc05hbWUiOiAiZm9ybS1jb250cm9sIiwKCQkibmFtZSI6ICJ0ZXh0LTE0Nzg4NzkyMjc0MTQiCgl9LAoJewoJCSJ0eXBlIjogImZpbGUiLAoJCSJsYWJlbCI6ICJD83BpYSBkYSBJbmRlbnRpZGFkZSIsCgkJImNsYXNzTmFtZSI6ICJmb3JtLWNvbnRyb2wiLAoJCSJuYW1lIjogImZpbGUtMTQ3ODg3OTI2NDEyOCIKCX0sCgl7CgkJInR5cGUiOiAiZmlsZSIsCgkJImxhYmVsIjogIkPzcGlhIGRhIENQRiIsCgkJImNsYXNzTmFtZSI6ICJmb3JtLWNvbnRyb2wiLAoJCSJuYW1lIjogImZpbGUtMTQ3ODg3OTMzNjA1OCIKCX0sCgl7CgkJInR5cGUiOiAiY2hlY2tib3giLAoJCSJsYWJlbCI6ICJEZWNsYXJh5+NvIGRlIGNp6m5jaWEiLAoJCSJjbGFzc05hbWUiOiAiY2hlY2tib3giLAoJCSJuYW1lIjogImNoZWNrYm94LTE0Nzg4ODAzMTcwODgiLAoJCSJ2YWx1ZSI6ICJTZW5ob3IgU2VjcmV04XJpbywgVmVuaG8g4CBwcmVzZW7nYSBkZSBWLlNhLiByZXF1ZXJlciBhIGNvbmNlc3PjbyBkbyBQYXNzZSBMaXZyZSBkbyBHb3Zlcm5vIEZlZGVyYWwgbm9zIHRlcm1vcyBkYSBMZWkgOC44OTkvMTk5NCwgZSBkbyBEZWNyZXRvIDMuNjkxLzIwMDAsIHBhcmEgZmlucyBkZSBncmF0dWlkYWRlIHRhcmlm4XJpYSBubyBzaXN0ZW1hIGRlIHRyYW5zcG9ydGUgY29sZXRpdm8gaW50ZXJlc3RhZHVhbCBkZSBwYXNzYWdlaXJvcywgbm9zIG1vZG9zIHJvZG92aeFyaW8sIGZlcnJvdmnhcmlvIGUgYXF1YXZp4XJpby4gUGFyYSB0YW50byBkZWNsYXJvOiIKCX0sCgl7CgkJInR5cGUiOiAidGV4dCIsCgkJImxhYmVsIjogIkEpIFNvbWEgZGFzIHJlbmRhcyBkZSB0b2RvcyBvcyBtZW1icm9zIGRhIGZhbe1saWEsIGluY2x1c2l2ZSBtZW5vcmVzOiBSJCIsCgkJInN1YnR5cGUiOiAidGV4dCIsCgkJImNsYXNzTmFtZSI6ICJmb3JtLWNvbnRyb2wiLAoJCSJuYW1lIjogInRleHQtMTQ3ODg3OTUxNjc4NyIKCX0sCgl7CgkJInR5cGUiOiAidGV4dCIsCgkJImxhYmVsIjogIkIpIE51bWVybyBkZSBwZXNzb2FzIGRhIEZhbe1saWEsIG1vcmFkb3JlcyBuYSByZXNpZOpuY2lhLCBpbmNsdXNpdmUgbWVub3JlczogIiwKCQkic3VidHlwZSI6ICJ0ZXh0IiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAidGV4dC0xNDc4ODc5NTE3ODY1IgoJfSwKCXsKCQkidHlwZSI6ICJwYXJhZ3JhcGgiLAoJCSJzdWJ0eXBlIjogInAiLAoJCSJsYWJlbCI6ICJBZmlybW8sIHNvYiBhcyBwZW5hcyBkYSBsZWksIHF1ZSBhcyBpbmZvcm1h5/VlcyBhY2ltYSBz428gdmVyZGFkZWlyYXMgZSBkZSBtaW5oYSBleGNsdXNpdmEgcmVzcG9uc2FiaWxpZGFkZS4iLAoJCSJjbGFzc05hbWUiOiAicGFyYWdyYXBoIgoJfSwKCXsKCQkidHlwZSI6ICJidXR0b24iLAoJCSJsYWJlbCI6ICJFbnZpYXIgUmVxdWVyaW1lbnRvIiwKCQkic3VidHlwZSI6ICJidXR0b24iLAoJCSJjbGFzc05hbWUiOiAiYnV0dG9uLWlucHV0IGJ0biBidG4tc3VjY2VzcyIsCgkJIm5hbWUiOiAiZmItc3VibWl0IiwKCQkic3R5bGUiOiAic3VjY2VzcyIKCX0KXQ==]]></formTemplate>
+    </formularioEletronico>
+    <contato/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Pessoa com deficiência física, mental, auditiva, visual ou múltipla comprovadamente carente.</tipo>
+            <requisitos><![CDATA[Para que uma pessoa tenha direito ao passe livre é necessário:
+* Possuir deficiência física, mental, auditiva, visual ou múltipla.
+* Ser comprovadamente carente. Conheça como funciona o cálculo para definir se uma pessoa é ou não carente clicando aqui]]></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="5" unidade="dias-uteis"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Preencher Formulário</titulo>
+            <descricao><![CDATA[O beneficiário preenche os formulários disponíveis :]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2846"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Passe Livre</item>
+        <item>Passe Pessoa Carente</item>
+        <item>Carteirinha Do Passe Livre</item>
+    </palavras-chave>
+    <legislacoes>
+        <item><![CDATA[[Legislação - Passe Livre](http://www.transportes.gov.br/conteudo/2764-passe-livre-legislacao.html)]]></item>
+    </legislacoes>
+</servico>
