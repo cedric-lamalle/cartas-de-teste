@@ -43,6 +43,23 @@
                 </default>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Acompanhar análise do processo</titulo>
+            <descricao><![CDATA[http://servicos.tst.gov.br:8081/share/]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2846"/>
     <segmentos-da-sociedade>
