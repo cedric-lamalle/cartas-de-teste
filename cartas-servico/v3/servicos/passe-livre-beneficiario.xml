@@ -45,7 +45,7 @@
         </etapa>
         <etapa>
             <titulo>Acompanhar análise do processo</titulo>
-            <descricao><![CDATA[http://servicos.tst.gov.br:8081/share/]]></descricao>
+            <descricao><![CDATA[[Clique aqui para acompanhar seu processo](http://servicos.tst.gov.br:8081/share/)]]></descricao>
             <documentos>
                 <default/>
             </documentos>
