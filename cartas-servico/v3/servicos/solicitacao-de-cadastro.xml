@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Solicitação de Cadastro]]></nome>
+    <sigla>SCR</sigla>
+    <nomes-populares>
+        <item>Cadastro</item>
+    </nomes-populares>
+    <descricao><![CDATA[Solicitação de cadastro para acesso às ferramentas do MPOG.]]></descricao>
+    <formularioEletronico>
+        <formTemplate><![CDATA[WwoJewoJCSJ0eXBlIjogImhlYWRlciIsCgkJInN1YnR5cGUiOiAiaDEiLAoJCSJsYWJlbCI6ICJEYWRvcyBkbyBTb2xpY2l0YW50ZSIsCgkJImNsYXNzTmFtZSI6ICJoZWFkZXIiCgl9LAoJewoJCSJ0eXBlIjogInRleHQiLAoJCSJsYWJlbCI6ICJOb21lIGRvIFNvbGljaXRhbnRlIiwKCQkic3VidHlwZSI6ICJ0ZXh0IiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAidGV4dC0xNDc4Nzk3Mzk5NjI4IgoJfSwKCXsKCQkidHlwZSI6ICJ0ZXh0IiwKCQkibGFiZWwiOiAiQ1BGIiwKCQkic3VidHlwZSI6ICJ0ZXh0IiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAidGV4dC0xNDc4Nzk3MzU2MjQ3IiwKCQkibWFzY2FyYSI6ICJtYXNrLWNwZiIKCX0sCgl7CgkJInR5cGUiOiAidGV4dGFyZWEiLAoJCSJsYWJlbCI6ICJNb3Rpdm8gZGEgc29saWNpdGHn428iLAoJCSJjbGFzc05hbWUiOiAiZm9ybS1jb250cm9sIiwKCQkibmFtZSI6ICJ0ZXh0YXJlYS0xNDc3MzM2NDgwNjgzIgoJfSwKCXsKCQkidHlwZSI6ICJmaWxlIiwKCQkibGFiZWwiOiAiQ1BGIiwKCQkiY2xhc3NOYW1lIjogImZvcm0tY29udHJvbCIsCgkJIm5hbWUiOiAiZmlsZS0xNDc3MzM2NTU1MDE1IgoJfSwKCXsKCQkidHlwZSI6ICJmaWxlIiwKCQkibGFiZWwiOiAiQ2FydGVpcmEgZGUgSWRlbnRpZGFkZSIsCgkJImNsYXNzTmFtZSI6ICJmb3JtLWNvbnRyb2wiLAoJCSJuYW1lIjogImZpbGUtMTQ3NzMzNjU4MzU1MiIKCX0sCgl7CgkJInR5cGUiOiAiYnV0dG9uIiwKCQkibGFiZWwiOiAiU3VibWV0ZXIiLAoJCSJzdWJ0eXBlIjogImJ1dHRvbiIsCgkJImNsYXNzTmFtZSI6ICJidXR0b24taW5wdXQgYnRuIGJ0bi1zdWNjZXNzIiwKCQkibmFtZSI6ICJmYi1zdWJtaXQiLAoJCSJzdHlsZSI6ICJzdWNjZXNzIgoJfQpd]]></formTemplate>
+    </formularioEletronico>
+    <contato/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Funcionários do MP e Terceirizados</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="3" unidade="dias-uteis"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Preencher o Formulário Eletrônico</titulo>
+            <descricao><![CDATA[Preencher corretamente os campos necessários para a solicitação]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="web">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+        <item>Órgãos e entidades públicas</item>
+        <item>Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Telecomunicações</item>
+        <item>Administração</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>solicitação</item>
+        <item>rede</item>
+        <item>acesso</item>
+    </palavras-chave>
+    <legislacoes>
+        <item><![CDATA[Portaria interna]]></item>
+    </legislacoes>
+</servico>
